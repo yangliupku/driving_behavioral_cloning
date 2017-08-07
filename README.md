@@ -43,7 +43,9 @@ My project includes the following files:
 * README.md summarizing the results
 
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
-```sh python drive.py model.hdf5
+
+```
+python drive.py model.hdf5
 ```
 ## Model Architecture and Training Strategy
 
